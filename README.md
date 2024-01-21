@@ -1,2 +1,2 @@
 # CodeSmile-Unity
-CodeSmile for Unity knowledge base
+CodeSmile for Unity - Knowledge Base
