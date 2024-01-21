@@ -1,5 +1,0 @@
-#theme: minima
-remote_theme: chrisrhymes/bulma-clean-theme
-baseurl: "/CodeSmile-Unity"
-plugins:
-- github-pages
