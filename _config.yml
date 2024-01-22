@@ -27,7 +27,11 @@ github_username:  CodeSmile-0000011110110111
 
 # Build settings
 markdown: kramdown
+
 theme: minima
+minima:
+  skin: dark
+  
 plugins:
   - jekyll-feed
   - github-pages
