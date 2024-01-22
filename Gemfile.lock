@@ -259,10 +259,10 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
-  x86_64-linux
 
 DEPENDENCIES
-  github-pages (~> 228)
+  github-pages
+  jekyll (~> 3.9.3)
   jekyll-feed (~> 0.6)
   kramdown-parser-gfm
   minima (~> 2.0)
